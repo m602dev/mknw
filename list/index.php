@@ -60,10 +60,10 @@ cookie
             echo "</tr>";            
         }         
 
-		echo "
-				</tbody>
-			</table>
-		</div>";        
+	echo "
+			</tbody>
+		</table>
+	</div>";        
     ?>
   </body>
   <script>
