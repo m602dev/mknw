@@ -61,9 +61,9 @@ cookie
         }         
 
 		echo "
-					</tbody>
-				</table>
-			</div>";        
+				</tbody>
+			</table>
+		</div>";        
     ?>
   </body>
   <script>
